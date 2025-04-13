@@ -10,7 +10,7 @@ namespace Task1.UI
 {
     internal class StudentUI
     {
-        public static Student TakeStudentInfo()
+        public Student TakeStudentInfo()
         {
             Console.Write("Enter Student name: ");
             string name = Console.ReadLine();
@@ -65,6 +65,7 @@ namespace Task1.UI
                 Console.WriteLine();
             }
         }
+
 
     }
 }
