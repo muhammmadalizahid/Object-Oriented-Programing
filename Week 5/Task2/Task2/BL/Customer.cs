@@ -8,12 +8,12 @@ namespace Task2.BL
 {
     internal class Customer
     {
-        public string username { get; private set; }
-        public string password { get; private set; }
-        public string email { get; private set; }
-        public string address { get; private set; }
-        public string contactNumber { get; private set; }
-        public List<Product> cart { get; private set; }
+        public string username;
+        public string password;
+        public string email;
+        public string address;
+        public string contactNumber;
+        public List<Product> cart;
 
         public Customer(string username, string password, string email, string address, string contactNumber)
         {

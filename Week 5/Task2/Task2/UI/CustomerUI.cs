@@ -30,7 +30,7 @@ namespace Task2.UI
 
                     if (CustomerDL.SignUp(username, password, email, address, contactNumber))
                     {
-                        continue; // Return to menu after sign-up
+                        continue;
                     }
                 }
                 else if (choice == "2")
@@ -112,7 +112,6 @@ namespace Task2.UI
             selectedProduct.quantity -= quantity;
             customer.AddToCart(selectedProduct, quantity);
         }
-
         public static void GenerateInvoice(Customer customer)
         {
             if (customer.cart.Count == 0)
