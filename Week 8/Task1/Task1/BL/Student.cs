@@ -32,9 +32,8 @@ namespace Task1.BL
             this.year = year;
             this.fee = fee;
         }
-        public new string toString()
+        public override string toString()
         {
-            Console.WriteLine(base.toString());
             return $"Student Name: {Name}, Address: {Address}, Program: {Program}, Year: {Year}, Fee: {Fee}";
         }
         public new static void addToList(Person person)
