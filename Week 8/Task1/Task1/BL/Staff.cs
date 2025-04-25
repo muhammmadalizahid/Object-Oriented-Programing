@@ -17,7 +17,7 @@ namespace Task1.BL
             this.School = school;
             this.Pay = pay;
         }
-        public new string toString()
+        public override string toString()
         {
             return $"Staff Name: {Name}, Address: {Address}, School: {School}, Pay: {Pay}";
         }

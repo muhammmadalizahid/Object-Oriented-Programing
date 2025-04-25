@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\OOP PD\\Week 8\\Task2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|e:\\oop pd\\week 8\\task2\\task2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|solutionrelative:task2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|E:\\OOP PD\\Week 8\\Task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,11 +15,7 @@
       "RelativeMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|solutionrelative:task2\\hand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|E:\\OOP PD\\Week 8\\Task2\\task2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|solutionrelative:task2\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|e:\\oop pd\\week 8\\task2\\task2\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|E:\\OOP PD\\Week 8\\Task2\\task2\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1FF6F3-FE66-49D1-BDF4-22A66BCDB029}|Task2\\Task2.csproj|solutionrelative:task2\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,26 +42,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\OOP PD\\Week 8\\Task2\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
               "ToolTip": "E:\\OOP PD\\Week 8\\Task2\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAMzMzMzMbwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:09:56.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T06:09:56.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Deck.cs",
               "DocumentMoniker": "E:\\OOP PD\\Week 8\\Task2\\Task2\\Deck.cs",
               "RelativeDocumentMoniker": "Task2\\Deck.cs",
               "ToolTip": "E:\\OOP PD\\Week 8\\Task2\\Task2\\Deck.cs",
               "RelativeToolTip": "Task2\\Deck.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAMzMzMzMbwCIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T06:40:22.75Z",
               "EditorCaption": ""
@@ -76,12 +75,11 @@
               "RelativeToolTip": "Task2\\Card.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAUwDcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:40:54.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T06:40:54.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hand.cs",
               "DocumentMoniker": "E:\\OOP PD\\Week 8\\Task2\\Task2\\Hand.cs",
               "RelativeDocumentMoniker": "Task2\\Hand.cs",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Task2\\Hand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T06:52:26.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T06:52:26.518Z"
             }
           ]
         }

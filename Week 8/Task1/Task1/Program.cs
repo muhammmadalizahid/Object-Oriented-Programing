@@ -14,6 +14,7 @@ namespace Task1
         {
             while (true)
             {
+                Console.Clear();
                 Console.WriteLine("1. Enter Student");
                 Console.WriteLine("2. Enter Staff");
                 Console.WriteLine("3. Enter Person");
@@ -39,7 +40,8 @@ namespace Task1
                         {
                             if (name == person.Name)
                             {
-                                Console.WriteLine(person.toString());
+                                string output =person.toString();
+                                Console.WriteLine(output);
                             }
                             else
                             {

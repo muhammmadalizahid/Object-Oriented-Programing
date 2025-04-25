@@ -26,9 +26,9 @@ namespace Task1.BL
             this.name = name;
             this.address = address;
         }
-        public string toString()
+        public virtual string toString()
         {
-            return $"Person Name: {name}, Address: {address}";  
+            return "";  
         }
         public static void addToList(Person person)
         {
